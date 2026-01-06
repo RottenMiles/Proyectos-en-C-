@@ -1,0 +1,1 @@
+Estos dos proyectos son los más recientes hasta la fecha, ambos son un juego por turnos tipo Pokémon (sin visuales) solo la lógica de los turnos como pókemon showdown, solo que el segundo se conecta a la red mediante un swagger conectado a mi localhost y el otro es meramente en el compliador de código pero con su respectiva GUI 
